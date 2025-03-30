@@ -1,0 +1,50 @@
+{
+  "1": {
+    "mcq": "Machine learning is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions.",
+    "option": {
+      "a": "True",
+      "b": "False"
+    },
+    "correct_answer": "a"
+  },
+  "2": {
+    "mcq": "What is a subdiscipline in machine learning that has seen advances allowing neural networks to surpass previous machine learning approaches in performance?",
+    "option": {
+      "a": "Deep learning",
+      "b": "Reinforcement learning",
+      "c": "Supervised learning",
+      "d": "Unsupervised learning"
+    },
+    "correct_answer": "a"
+  },
+  "3": {
+    "mcq": "Which field of study is machine learning most closely related to?",
+    "option": {
+      "a": "Data mining",
+      "b": "Natural language processing",
+      "c": "Computer vision",
+      "d": "Speech recognition"
+    },
+    "correct_answer": "a"
+  },
+  "4": {
+    "mcq": "Who coined the term 'machine learning' in 1959?",
+    "option": {
+      "a": "Arthur Samuel",
+      "b": "Donald Hebb",
+      "c": "Raytheon Company",
+      "d": "Alan Turing"
+    },
+    "correct_answer": "a"
+  },
+  "5": {
+    "mcq": "What is the primary purpose of modern-day machine learning?",
+    "option": {
+      "a": "To classify data based on models which have been developed",
+      "b": "To make predictions for future outcomes based on these models",
+      "c": "To develop new statistical algorithms",
+      "d": "To analyze sonar signals"
+    },
+    "correct_answer": "b"
+  }
+}

@@ -1,0 +1,2 @@
+[2025-03-29 16:23:14,484] 1025 httpx - INFO - HTTP Request: POST https://api.ai21.com/studio/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-03-29 16:25:08,422] 1025 httpx - INFO - HTTP Request: POST https://api.ai21.com/studio/v1/chat/completions "HTTP/1.1 200 OK"

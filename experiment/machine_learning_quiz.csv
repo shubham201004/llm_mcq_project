@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+"Machine learning is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions.",a: True | b: False,a
+What is a subdiscipline in machine learning that has seen advances allowing neural networks to surpass previous machine learning approaches in performance?,a: Deep learning | b: Reinforcement learning | c: Supervised learning | d: Unsupervised learning,a
+Which field of study is machine learning most closely related to?,a: Data mining | b: Natural language processing | c: Computer vision | d: Speech recognition,a
+Who coined the term 'machine learning' in 1959?,a: Arthur Samuel | b: Donald Hebb | c: Raytheon Company | d: Alan Turing,a
+What is the primary purpose of modern-day machine learning?,a: To classify data based on models which have been developed | b: To make predictions for future outcomes based on these models | c: To develop new statistical algorithms | d: To analyze sonar signals,b

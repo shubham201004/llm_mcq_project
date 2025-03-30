@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+PyPDF2
+python-docx
+transformers
+torch
+langchain
+langchain-community
+ai21
+langchain-ai21
+pandas
+
+-e .

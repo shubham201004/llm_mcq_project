@@ -1,0 +1,11 @@
+[2025-03-29 12:12:24,505] 80 root - ERROR - An error occurred: Traceback (most recent call last):
+  File "E:\llm_mcq_project\src\mcqgenerator\MCQGenerator.py", line 66, in <module>
+    result = generate_chain.invoke({
+  File "E:\llm_mcq_project\venv\lib\site-packages\langchain_core\runnables\base.py", line 3023, in invoke
+    input = context.run(step.invoke, input, config, **kwargs)
+  File "E:\llm_mcq_project\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 308, in invoke
+    [self._convert_input(input)],
+  File "E:\llm_mcq_project\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 294, in _convert_input
+    raise ValueError(msg)  # noqa: TRY004
+ValueError: Invalid input type <class 'dict'>. Must be a PromptValue, str, or list of BaseMessages.
+
